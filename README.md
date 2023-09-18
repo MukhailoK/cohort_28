@@ -9,4 +9,4 @@
     Volodymyr Maiorov
     Denys Babenko
 -   Olena Dikarieva
-- Halina Utkina
+Halina Utkina
