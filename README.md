@@ -3,3 +3,5 @@
 - Andrei Bakhtinov
 - Mykhailo Kolotailo
 - Volodymyr Maiorov
+- Denys Babenko
+- Daria
