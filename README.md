@@ -2,3 +2,5 @@
 - Andrei Bakhtinov
 - Mykhailo Kolotailo
 - Danil Kurmayev
+- Daria
+
